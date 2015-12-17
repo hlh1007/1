@@ -1,7 +1,7 @@
 # Summary
 
 * [这是【书名】自动加载README.md文件](README.md)
-* [【这是章节一】【学习】](RJ-WebDesign/laydate/README.md)
+* [【这是章节一】【学习】](https://github.com/RJ-WebDesign/laydate.git)
 * [【这是章节二】【练习】]( practice.md)
 * [【这是章节三】【工具】](tools.md)
 	* [工具介绍](tools/introduction.md)
